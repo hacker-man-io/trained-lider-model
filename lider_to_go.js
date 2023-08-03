@@ -1,19 +1,21 @@
 const brain = require("brain.js");
 const express = require("express");
-const model_training = require("./lider_training");
+const model_training = require("./lider_training_data.json");
 const fs = require("fs");
 
 const app = express();
 app.use(express.json());
 
 const net = new brain.recurrent.LSTM();
+console.log(model_training);
+console.log("here");
 
 // console.log(model_training);
 
 const train = async () => {
   await net.train(model_training, {
     // Defaults values --> expected validation
-    iterations: 5000, // the maximum times to iterate the training data --> number greater than 0
+    iterations: 30000, // the maximum times to iterate the training data --> number greater than 0
     errorThresh: 0.005, // the acceptable error percentage from training data --> number between 0 and 1
     log: true, // true to use console.log, when a function is supplied it is used --> Either true or a function
     logPeriod: 10, // iterations between logging out --> number greater than 0
@@ -29,7 +31,11 @@ const train = async () => {
 
 train();
 const modelData = net.toJSON();
-fs.writeFileSync("lider_trained.json", JSON.stringify(modelData), "utf-8");
+fs.writeFileSync(
+  "lider_trained_final.json",
+  JSON.stringify(modelData),
+  "utf-8"
+);
 
 app.listen(4222, () => {
   console.log("server running after trainig");
