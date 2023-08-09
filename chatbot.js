@@ -8,8 +8,11 @@ app.use(express.json());
 const net = new brain.recurrent.LSTM();
 // let modelData = fs.readFileSync("model_state.json", "utf8");
 
-const modelData = JSON.parse(fs.readFileSync("lider_trained.json", "utf-8"));
+const modelData = JSON.parse(
+  fs.readFileSync("optimized_lider_trained_final.json", "utf-8")
+);
 net.fromJSON(modelData);
+
 // console.log(modelData);
 // modelData = JSON.stringify(modelData);
 // const net = new brain.NeuralNetwork();
