@@ -2,16 +2,16 @@
   "name": "machine-learning",
   "version": "1.0.0",
   "description": "",
-  "main": "chatbot.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node chatbot.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
     "node": "16.0.0"
   },
   "keywords": [],
-  "author": "",
+  "author": "Elijah Kolawole",
   "license": "ISC",
   "dependencies": {
     "@tensorflow/tfjs-node": "^4.8.0",
