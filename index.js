@@ -1,9 +1,15 @@
 const brain = require("brain.js");
 const express = require("express");
 const fs = require("fs");
+const cors = require("cors");
 
 const app = express();
 app.use(express.json());
+app.use(
+  cors({
+    origin: "*"
+  })
+);
 
 const net = new brain.recurrent.LSTM();
 // let modelData = fs.readFileSync("model_state.json", "utf8");
