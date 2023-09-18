@@ -1,0 +1,66 @@
+[
+  {
+    "input": "Opowiedz mi o swojej firmie.",
+    "output": "Multiagencja Leader jest zaufanym partnerem w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, skuteczne usługi rejestracji pojazdów i dokładne tłumaczenia, które niwelują bariery językowe. "
+  },
+  {
+    "input": "Lider?",
+    "output": "Multiagencja Leader jest zaufanym partnerem w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, skuteczne usługi rejestracji pojazdów i dokładne tłumaczenia, które niwelują bariery językowe. "
+  },
+  {
+    "input": "Jakie opcje ubezpieczenia samochodu oferujecie?",
+    "output": "Oferujemy kompleksowe ubezpieczenia komunikacyjne, w tym autocasco (AC), odpowiedzialności cywilnej (OC) i następstw nieszczęśliwych wypadków (NW)."
+  },
+  {
+    "input": "Opowiedz mi o swoim ubezpieczeniu domu.",
+    "output": "Zabezpiecz swoją własność dzięki naszemu ubezpieczeniu nieruchomości. Oferujemy polisy dla mieszkań, które chronią Twoje rzeczy przed różnymi rodzajami ryzyka."
+  },
+  {
+    "input": "Co obejmuje ubezpieczenie zdrowotne?",
+    "output": "Chroni on Twoich bliskich w przypadku Twojej śmierci, zapewniając świadczenia finansowe, które można wykorzystać na spłatę kredytu hipotecznego, pokrycie bieżących wydatków lub sfinansowanie edukacji dzieci. "
+  },
+  {
+    "input": "Jakie konkretne korzyści finansowe zapewnia polisa na życie?",
+    "output": "Chroni on Twoich bliskich w przypadku Twojej śmierci, zapewniając świadczenia finansowe, które można wykorzystać na spłatę kredytu hipotecznego, pokrycie bieżących wydatków lub sfinansowanie edukacji dzieci. "
+  },
+  {
+    "input": "W jaki sposób polisa na życie chroni moich bliskich w przypadku mojej śmierci?",
+    "output": "Chroni on Twoich bliskich w przypadku Twojej śmierci, zapewniając świadczenia finansowe, które można wykorzystać na spłatę kredytu hipotecznego, pokrycie bieżących wydatków lub sfinansowanie edukacji dzieci. "
+  },
+  {
+    "input": "Co obejmuje ubezpieczenie rolnicze?",
+    "output": "Zapewnij kompleksową ochronę swojego gospodarstwa dzięki naszemu ubezpieczeniu rolnemu. Oferujemy polisy, które chronią uprawy, zwierzęta gospodarskie i mienie związane z gospodarstwem."
+  },
+  {
+    "input": "Jakie opcje ubezpieczenia biznesowego oferujecie?",
+    "output": "Zapewnij sobie spokojną i bezpieczną podróż dzięki naszemu ubezpieczeniu podróżnemu. Oferujemy polisy, które chronią przed nieprzewidzianymi sytuacjami podczas wakacji, takimi jak odwołane loty, zagubiony bagaż, choroby lub wypadki."
+  },
+  {
+    "input": "Jakie rodzaje ubezpieczeń oferujecie?",
+    "output": "Zabezpiecz swoje interesy dzięki naszym różnorodnym opcjom ubezpieczeniowym. Oferujemy szeroki wybór polis chroniących przed różnymi rodzajami ryzyka, w tym ubezpieczenia komunikacyjne, majątkowe, na życie, zdrowotne, podróżne i wiele innych. Skorzystaj z naszych usług, aby zyskać spokój ducha i pewność finansową w każdym aspekcie życia."
+  },
+  {
+    "input": "Opowiedz mi o usługach rejestracji pojazdów osobistych.",
+    "output": "Rejestracja samochodu, czy to z Polski, czy z innego kraju, to jak podróż przez krainy rejestracji. Trzeba pokonać góry dokumentów, przekroczyć granice biurokracji i poruszać się po egzotycznych przepisach. Niech Biuro Lider będzie Twoim niezawodnym przewodnikiem w tym rejestracyjnym safari!"
+  },
+  {
+    "input": "Jakie usługi oferujecie dla pojazdów zarejestrowanych poza stanem?",
+    "output": "Rejestracja zabytkowych samochodów to prawdziwa podróż w czasie! To wyjątkowe doświadczenie, które wymaga szczególnej uwagi i troski. Biuro Lider jest tutaj, aby pomóc Ci w tej wyjątkowej wyprawie rejestracyjnej! Nasi entuzjaści samochodów zabytkowych rozumieją wartość i historię tych pojazdów. Znamy wszystkie tajniki rejestracji samochodów zabytkowych i wiemy, jak sprawić, by Twój skarb został oficjalnie uznany za klejnot świata motoryzacji. Pomożemy Ci zebrać niezbędne dokumenty, wypełnić odpowiednie formularze i przeprowadzić Cię przez labirynty biurokracji."
+  },
+  {
+    "input": "Jak mogę odnowić rejestrację pojazdu?",
+    "output": "Rejestracja pojazdu jest jak podróż w głąb biurokratycznej dżungli! Tyle dokumentów, tyle kolejek, tyle zamieszania. Ale nie martw się! Biuro Lider to nasz zespół komandosów gotowy podjąć się tej misji w Twoim imieniu!"
+  },
+  {
+    "input": "Opowiedz mi o swoich usługach tłumaczeniowych.",
+    "output": "Dzięki wieloletniemu doświadczeniu możemy zapewnić bezbłędne tłumaczenia. Powierzając nam swoje teksty, otrzymasz najdokładniejsze tłumaczenia w wybranym języku. Nasze profesjonalne usługi gwarantują precyzję i niezawodność tłumaczeń, niezależnie od języka i tematu. Doskonale rozumiemy języki obce i z pasją śledzimy wszelkie zmiany językowe."
+  },
+  {
+    "input": "Czy możesz udostępnić przydatny szablon dokumentu?",
+    "output": "Z nami oszczędzasz czas, wysiłek i pieniądze. Aby pozostawić dokumenty do rejestracji pojazdu, konieczne jest podpisanie odpowiednich dokumentów"
+  },
+  {
+    "input": "Opowiedz mi o swojej firmie.",
+    "output": "Multiagencja Lider jest zaufanym partnerem w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, wydajne usługi rejestracji pojazdów i dokładne tłumaczenia, które niwelują bariery językowe. Dzięki zaangażowaniu w zadowolenie klienta i doskonałość, zapewniają oni bezproblemowe doświadczenie dla wszystkich Twoich potrzeb."
+  }
+]

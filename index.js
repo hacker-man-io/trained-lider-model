@@ -15,7 +15,7 @@ const net = new brain.recurrent.LSTM();
 // let modelData = fs.readFileSync("model_state.json", "utf8");
 
 const modelData = JSON.parse(
-  fs.readFileSync("optimized_lider_trained_final.json", "utf-8")
+  fs.readFileSync("better_lider_trained_final.json", "utf-8")
 );
 net.fromJSON(modelData);
 
@@ -81,8 +81,8 @@ app.listen(process.env.PORT || 41886, () => {
   console.log("server running after trainig");
 });
 
-app.get("/question/:id", (req, res) => {
-  const question = req.params.id;
+app.post("/question", (req, res) => {
+  const question = req.body.question;
   question
     ? res.status(200).json({ message: net.run(question) })
     : res.status(409).json({ message: "input a question" });

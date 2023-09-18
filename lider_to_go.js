@@ -59,7 +59,7 @@ const train = async () => {
 train();
 const modelData = net.toJSON();
 fs.writeFileSync(
-  "optimized_lider_trained_final.json",
+  "better_lider_trained_final.json",
   JSON.stringify(modelData),
   "utf-8"
 );

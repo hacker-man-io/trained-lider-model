@@ -1,58 +1,209 @@
 [
   {
     "input": "Opowiedz mi o swojej firmie.",
-    "output": "Multiagencja Lider jest zaufanym partnerem w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, wydajne usługi rejestracji pojazdów i dokładne tłumaczenia, które niwelują bariery językowe. Dzięki zaangażowaniu w zadowolenie klienta i doskonałość, zapewniają oni bezproblemowe doświadczenie dla wszystkich Twoich potrzeb."
+    "output": "Multiagencja Leader jest zaufanym partnerem w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, skuteczne usługi rejestracji pojazdów i dokładne tłumaczenia, które niwelują bariery językowe."
   },
   {
-    "input": "Co wyróżnia Multiagencję Lider na tle innych ubezpieczycieli?",
-    "output": "Multiagencja Lider jest zaufanym partnerem w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, wydajne usługi rejestracji pojazdów i dokładne tłumaczenia, które niwelują bariery językowe. Dzięki zaangażowaniu w zadowolenie klienta i doskonałość, zapewniają oni bezproblemowe doświadczenie dla wszystkich Twoich potrzeb."
+    "input": "Lider?",
+    "output": "Multiagencja Leader jest zaufanym partnerem w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, skuteczne usługi rejestracji pojazdów i dokładne tłumaczenia, które niwelują bariery językowe."
   },
+  {
+    "input": "Lider ubezpieczenia?",
+    "output": "Multiagencja Leader jest zaufanym partnerem w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, skuteczne usługi rejestracji pojazdów i dokładne tłumaczenia, które niwelują bariery językowe."
+  },
+  {
+    "input": "Powiedz mi o waszej firmie.",
+    "output": "Multiagencja Leader jest zaufanym partnerem w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, skuteczne usługi rejestracji pojazdów i dokładne tłumaczenia, które niwelują bariery językowe."
+  },
+  {
+    "input": "Co możesz mi powiedzieć o waszym przedsiębiorstwie?",
+    "output": "Multiagencja Leader jest zaufanym partnerem w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, skuteczne usługi rejestracji pojazdów i dokładne tłumaczenia, które niwelują bariery językowe."
+  },
+  {
+    "input": "Możesz mi powiedzieć o twojej firmie?",
+    "output": "Multiagencja Leader to zaufany partner w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, efektywne usługi rejestracji pojazdów i dokładne tłumaczenia, eliminujące bariery językowe."
+  },
+  {
+    "input": "Co możesz mi powiedzieć na temat twojego przedsiębiorstwa?",
+    "output": "Multiagencja Leader to zaufany partner w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, efektywne usługi rejestracji pojazdów i dokładne tłumaczenia, eliminujące bariery językowe."
+  },
+  {
+    "input": "Opisz swoją firmę.",
+    "output": "Multiagencja Leader to zaufany partner w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, efektywne usługi rejestracji pojazdów i dokładne tłumaczenia, eliminujące bariery językowe."
+  },
+  {
+    "input": "Proszę podać informacje na temat swojej firmy.",
+    "output": "Multiagencja Leader to zaufany partner w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, efektywne usługi rejestracji pojazdów i dokładne tłumaczenia, eliminujące bariery językowe."
+  },
+  {
+    "input": "Czy możesz wyjaśnić, czym zajmuje się twoja firma?",
+    "output": "Multiagencja Leader to zaufany partner w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, efektywne usługi rejestracji pojazdów i dokładne tłumaczenia, eliminujące bariery językowe."
+  },
+
   {
     "input": "Jakie opcje ubezpieczenia samochodu oferujecie?",
-    "output": "Oferujemy kompleksowe ubezpieczenia komunikacyjne, w tym autocasco (AC), odpowiedzialności cywilnej (OC) oraz następstw nieszczęśliwych wypadków (NW). Nasza firma zapewnia szeroki zakres polis, które chronią zarówno Twój samochód, jak i Ciebie jako kierowcę."
+    "output": "Oferujemy kompleksowe ubezpieczenia komunikacyjne, w tym autocasco (AC), odpowiedzialności cywilnej (OC) i następstw nieszczęśliwych wypadków (NW)."
   },
+  {
+    "input": "Które rodzaje ubezpieczeń dla samochodów są dostępne u was?",
+    "output": "Oferujemy kompleksowe ubezpieczenia komunikacyjne, w tym autocasco (AC), odpowiedzialności cywilnej (OC) i następstw nieszczęśliwych wypadków (NW)."
+  },
+  {
+    "input": "Czy mogę uzyskać ubezpieczenie dla mojego samochodu u was?",
+    "output": "Oferujemy kompleksowe ubezpieczenia komunikacyjne, w tym autocasco (AC), odpowiedzialności cywilnej (OC) i następstw nieszczęśliwych wypadków (NW)."
+  },
+  {
+    "input": "Co oferujecie w zakresie ubezpieczeń pojazdów?",
+    "output": "Oferujemy kompleksowe ubezpieczenia komunikacyjne, w tym autocasco (AC), odpowiedzialności cywilnej (OC) i następstw nieszczęśliwych wypadków (NW)."
+  },
+  {
+    "input": "Czy dostępne są ubezpieczenia na wypadek awarii samochodu?",
+    "output": "Oferujemy kompleksowe ubezpieczenia komunikacyjne, w tym autocasco (AC), odpowiedzialności cywilnej (OC) i następstw nieszczęśliwych wypadków (NW)."
+  },
+
   {
     "input": "Opowiedz mi o swoim ubezpieczeniu domu.",
     "output": "Zabezpiecz swoją własność dzięki naszemu ubezpieczeniu nieruchomości. Oferujemy polisy dla mieszkań, które chronią Twoje rzeczy przed różnymi rodzajami ryzyka."
   },
   {
-    "input": "Co obejmuje ubezpieczenie zdrowotne?",
-    "output": "Ubezpieczenie na życie to inwestycja w przyszłość. Chroni Twoich bliskich w przypadku Twojej śmierci, zapewniając korzyści finansowe, które można wykorzystać na spłatę kredytu hipotecznego, pokrycie bieżących wydatków lub sfinansowanie edukacji dzieci. Nasz zespół ekspertów pomoże Ci wybrać odpowiednią polisę na życie dostosowaną do Twoich potrzeb i oczekiwań. Oferujemy profesjonalne doradztwo, spersonalizowane podejście i wysokiej jakości usługi, dzięki czemu możesz w pełni wykorzystać potencjał ubezpieczenia na życie."
+    "input": "Czym jest ubezpieczenie nieruchomości?",
+    "output": "Zabezpiecz swoją własność dzięki naszemu ubezpieczeniu nieruchomości. Oferujemy polisy dla mieszkań, które chronią Twoje rzeczy przed różnymi rodzajami ryzyka."
   },
+  {
+    "input": "Jakie rodzaje polis obejmuje ubezpieczenie nieruchomości?",
+    "output": "Zabezpiecz swoją własność dzięki naszemu ubezpieczeniu nieruchomości. Oferujemy polisy dla mieszkań, które chronią Twoje rzeczy przed różnymi rodzajami ryzyka."
+  },
+  {
+    "input": "Dlaczego powinienem ubezpieczyć swój dom?",
+    "output": "Zabezpiecz swoją własność dzięki naszemu ubezpieczeniu nieruchomości. Oferujemy polisy dla mieszkań, które chronią Twoje rzeczy przed różnymi rodzajami ryzyka."
+  },
+  {
+    "input": "Jakie korzyści oferuje ubezpieczenie nieruchomości?",
+    "output": "Zabezpiecz swoją własność dzięki naszemu ubezpieczeniu nieruchomości. Oferujemy polisy dla mieszkań, które chronią Twoje rzeczy przed różnymi rodzajami ryzyka."
+  },
+
+  {
+    "input": "Co obejmuje ubezpieczenie zdrowotne?",
+    "output": "Chroni on Twoich bliskich w przypadku Twojej śmierci, zapewniając świadczenia finansowe, które można wykorzystać na spłatę kredytu hipotecznego, pokrycie bieżących wydatków lub sfinansowanie edukacji dzieci."
+  },
+  {
+    "input": "Jakie usługi są objęte ubezpieczeniem zdrowotnym?",
+    "output": "Chroni on Twoich bliskich w przypadku Twojej śmierci, zapewniając świadczenia finansowe, które można wykorzystać na spłatę kredytu hipotecznego, pokrycie bieżących wydatków lub sfinansowanie edukacji dzieci."
+  },
+  {
+    "input": "Kto może skorzystać z ubezpieczenia zdrowotnego?",
+    "output": "Chroni on Twoich bliskich w przypadku Twojej śmierci, zapewniając świadczenia finansowe, które można wykorzystać na spłatę kredytu hipotecznego, pokrycie bieżących wydatków lub sfinansowanie edukacji dzieci."
+  },
+  {
+    "input": "Czy ubezpieczenie zdrowotne obejmuje leczenie szpitalne?",
+    "output": "Chroni on Twoich bliskich w przypadku Twojej śmierci, zapewniając świadczenia finansowe, które można wykorzystać na spłatę kredytu hipotecznego, pokrycie bieżących wydatków lub sfinansowanie edukacji dzieci."
+  },
+  {
+    "input": "Czy ubezpieczenie zdrowotne obejmuje wizyty u lekarza?",
+    "output": "Chroni on Twoich bliskich w przypadku Twojej śmierci, zapewniając świadczenia finansowe, które można wykorzystać na spłatę kredytu hipotecznego, pokrycie bieżących wydatków lub sfinansowanie edukacji dzieci."
+  },
+
   {
     "input": "Co obejmuje ubezpieczenie rolnicze?",
     "output": "Zapewnij kompleksową ochronę swojego gospodarstwa dzięki naszemu ubezpieczeniu rolnemu. Oferujemy polisy, które chronią uprawy, zwierzęta gospodarskie i mienie związane z gospodarstwem."
   },
   {
+    "input": "Jakie ryzyka pokrywa ubezpieczenie rolnicze?",
+    "output": "Zapewnij kompleksową ochronę swojego gospodarstwa dzięki naszemu ubezpieczeniu rolnemu. Oferujemy polisy, które chronią uprawy, zwierzęta gospodarskie i mienie związane z gospodarstwem."
+  },
+  {
+    "input": "Czy ubezpieczenie rolnicze obejmuje straty spowodowane klęskami naturalnymi?",
+    "output": "Zapewnij kompleksową ochronę swojego gospodarstwa dzięki naszemu ubezpieczeniu rolnemu. Oferujemy polisy, które chronią uprawy, zwierzęta gospodarskie i mienie związane z gospodarstwem."
+  },
+  {
+    "input": "Jakie mienie jest objęte ubezpieczeniem rolniczym?",
+    "output": "Zapewnij kompleksową ochronę swojego gospodarstwa dzięki naszemu ubezpieczeniu rolnemu. Oferujemy polisy, które chronią uprawy, zwierzęta gospodarskie i mienie związane z gospodarstwem."
+  },
+  {
+    "input": "Czy ubezpieczenie rolnicze obejmuje straty związane z chorobami zwierząt?",
+    "output": "Zapewnij kompleksową ochronę swojego gospodarstwa dzięki naszemu ubezpieczeniu rolnemu. Oferujemy polisy, które chronią uprawy, zwierzęta gospodarskie i mienie związane z gospodarstwem."
+  },
+
+  {
     "input": "Jakie opcje ubezpieczenia biznesowego oferujecie?",
     "output": "Zapewnij sobie spokojną i bezpieczną podróż dzięki naszemu ubezpieczeniu podróżnemu. Oferujemy polisy, które chronią przed nieprzewidzianymi sytuacjami podczas wakacji, takimi jak odwołane loty, zagubiony bagaż, choroby lub wypadki."
   },
   {
-    "input": "Jakie rodzaje ubezpieczeń oferujecie?",
-    "output": "Zabezpiecz swoje interesy dzięki naszym różnorodnym opcjom ubezpieczeniowym. Oferujemy szeroki wybór polis chroniących przed różnymi rodzajami ryzyka, w tym ubezpieczenia komunikacyjne, majątkowe, na życie, zdrowotne, podróżne i wiele innych. Skorzystaj z naszych usług, aby zyskać spokój ducha i pewność finansową w każdym aspekcie życia."
+    "input": "Czy oferujecie ubezpieczenie dla firm?",
+    "output": "Zapewnij sobie spokojną i bezpieczną podróż dzięki naszemu ubezpieczeniu podróżnemu. Oferujemy polisy, które chronią przed nieprzewidzianymi sytuacjami podczas wakacji, takimi jak odwołane loty, zagubiony bagaż, choroby lub wypadki."
   },
   {
-    "input": "Opowiedz mi o usługach rejestracji pojazdów osobistych.",
-    "output": "Rejestracja samochodu, czy to z Polski, czy z innego kraju, to jak podróż przez krainy rejestracji. Trzeba pokonać góry dokumentów, przekroczyć granice biurokracji i poruszać się po egzotycznych przepisach. Niech Biuro Lider będzie Twoim niezawodnym przewodnikiem w tym rejestracyjnym safari!"
+    "input": "W jaki sposób mogę zabezpieczyć swój biznes?",
+    "output": "Zapewnij sobie spokojną i bezpieczną podróż dzięki naszemu ubezpieczeniu podróżnemu. Oferujemy polisy, które chronią przed nieprzewidzianymi sytuacjami podczas wakacji, takimi jak odwołane loty, zagubiony bagaż, choroby lub wypadki."
   },
   {
-    "input": "Jakie usługi oferujecie dla pojazdów zarejestrowanych poza stanem?",
-    "output": "Rejestracja zabytkowych samochodów to prawdziwa podróż w czasie! To wyjątkowe doświadczenie, które wymaga szczególnej uwagi i troski. Biuro Lider jest tutaj, aby pomóc Ci w tej wyjątkowej wyprawie rejestracyjnej! Nasi entuzjaści samochodów zabytkowych rozumieją wartość i historię tych pojazdów. Znamy wszystkie tajniki rejestracji samochodów zabytkowych i wiemy, jak sprawić, by Twój skarb został oficjalnie uznany za klejnot świata motoryzacji. Pomożemy Ci zebrać niezbędne dokumenty, wypełnić odpowiednie formularze i przeprowadzić Cię przez labirynty biurokracji."
+    "input": "Czy macie polisy ubezpieczeniowe dla przedsiębiorców?",
+    "output": "Zapewnij sobie spokojną i bezpieczną podróż dzięki naszemu ubezpieczeniu podróżnemu. Oferujemy polisy, które chronią przed nieprzewidzianymi sytuacjami podczas wakacji, takimi jak odwołane loty, zagubiony bagaż, choroby lub wypadki."
   },
   {
-    "input": "Jak mogę odnowić rejestrację pojazdu?",
-    "output": "Rejestracja pojazdu jest jak podróż w głąb biurokratycznej dżungli! Tyle dokumentów, tyle kolejek, tyle zamieszania. Ale nie martw się! Biuro Lider to nasz zespół komandosów gotowy podjąć się tej misji w Twoim imieniu!"
+    "input": "Jakie są dostępne opcje ubezpieczenia dla firm?",
+    "output": "Zapewnij sobie spokojną i bezpieczną podróż dzięki naszemu ubezpieczeniu podróżnemu. Oferujemy polisy, które chronią przed nieprzewidzianymi sytuacjami podczas wakacji, takimi jak odwołane loty, zagubiony bagaż, choroby lub wypadki."
+  },
+
+  {
+    "input": "Jakie rodzaje polis ubezpieczeniowych posiadacie?",
+    "output": "Zabezpiecz swoje interesy dzięki naszym różnym opcjom ubezpieczeniowym. Oferujemy szeroki wybór polis chroniących przed różnymi rodzajami ryzyka, w tym samochodowymi, majątkowymi, na życie, zdrowotnymi, podróżnymi i nie tylko."
   },
   {
-    "input": "Opowiedz mi o swoich usługach tłumaczeniowych.",
-    "output": "Dzięki wieloletniemu doświadczeniu możemy zapewnić bezbłędne tłumaczenia. Powierzając nam swoje teksty, otrzymasz najdokładniejsze tłumaczenia w wybranym języku. Nasze profesjonalne usługi gwarantują precyzję i niezawodność tłumaczeń, niezależnie od języka i tematu. Doskonale rozumiemy języki obce i z pasją śledzimy wszelkie zmiany językowe."
+    "input": "Które rodzaje ubezpieczeń są dostępne w waszej ofercie?",
+    "output": "Zabezpiecz swoje interesy dzięki naszym różnym opcjom ubezpieczeniowym. Oferujemy szeroki wybór polis chroniących przed różnymi rodzajami ryzyka, w tym samochodowymi, majątkowymi, na życie, zdrowotnymi, podróżnymi i nie tylko."
   },
   {
-    "input": "Czy możesz udostępnić przydatny szablon dokumentu?",
-    "output": "Z nami oszczędzasz czas, wysiłek i pieniądze. Aby pozostawić dokumenty do rejestracji pojazdu, konieczne jest podpisanie odpowiednich dokumentów"
+    "input": "Czy oferujecie różne rodzaje ubezpieczeń?",
+    "output": "Zabezpiecz swoje interesy dzięki naszym różnym opcjom ubezpieczeniowym. Oferujemy szeroki wybór polis chroniących przed różnymi rodzajami ryzyka, w tym samochodowymi, majątkowymi, na życie, zdrowotnymi, podróżnymi i nie tylko."
   },
   {
-    "input": "Opowiedz mi o swojej firmie.",
-    "output": "Multiagencja Lider jest zaufanym partnerem w zakresie ubezpieczeń, rejestracji pojazdów i tłumaczeń. Nasz zespół ekspertów oferuje kompleksowe plany ubezpieczeniowe, wydajne usługi rejestracji pojazdów i dokładne tłumaczenia, które niwelują bariery językowe. Dzięki zaangażowaniu w zadowolenie klienta i doskonałość, zapewniają oni bezproblemowe doświadczenie dla wszystkich Twoich potrzeb."
+    "input": "Które rodzaje ubezpieczeń można u was znaleźć?",
+    "output": "Zabezpiecz swoje interesy dzięki naszym różnym opcjom ubezpieczeniowym. Oferujemy szeroki wybór polis chroniących przed różnymi rodzajami ryzyka, w tym samochodowymi, majątkowymi, na życie, zdrowotnymi, podróżnymi i nie tylko."
+  },
+  {
+    "input": "Czy mogę wybrać różne rodzaje ubezpieczeń?",
+    "output": "Zabezpiecz swoje interesy dzięki naszym różnym opcjom ubezpieczeniowym. Oferujemy szeroki wybór polis chroniących przed różnymi rodzajami ryzyka, w tym samochodowymi, majątkowymi, na życie, zdrowotnymi, podróżnymi i nie tylko."
+  },
+
+  {
+    "input": "Jakie usługi tłumaczeniowe oferujecie?",
+    "output": "Nasze profesjonalne usługi gwarantują precyzyjne i niezawodne tłumaczenia, niezależnie od języka lub tematu. Doskonale rozumiemy języki obce i z pasją śledzimy wszelkie zmiany językowe."
+  },
+  {
+    "input": "Opowiedz mi o waszych usługach tłumaczeniowych.",
+    "output": "Nasze profesjonalne usługi gwarantują precyzyjne i niezawodne tłumaczenia, niezależnie od języka lub tematu. Doskonale rozumiemy języki obce i z pasją śledzimy wszelkie zmiany językowe."
+  },
+  {
+    "input": "Które rodzaje tłumaczeń oferujecie?",
+    "output": "Nasze profesjonalne usługi gwarantują precyzyjne i niezawodne tłumaczenia, niezależnie od języka lub tematu. Doskonale rozumiemy języki obce i z pasją śledzimy wszelkie zmiany językowe."
+  },
+  {
+    "input": "Co możesz mi powiedzieć o waszych usługach tłumaczeniowych?",
+    "output": "Nasze profesjonalne usługi gwarantują precyzyjne i niezawodne tłumaczenia, niezależnie od języka lub tematu. Doskonale rozumiemy języki obce i z pasją śledzimy wszelkie zmiany językowe."
+  },
+  {
+    "input": "Czy oferujecie usługi tłumaczeniowe?",
+    "output": "Nasze profesjonalne usługi gwarantują precyzyjne i niezawodne tłumaczenia, niezależnie od języka lub tematu. Doskonale rozumiemy języki obce i z pasją śledzimy wszelkie zmiany językowe."
+  },
+  {
+    "input": "Czy oferujecie szablony dokumentów?",
+    "output": "Z nami oszczędzasz czas, wysiłek i pieniądze. Aby pozostawić dokumenty do rejestracji pojazdu, konieczne jest podpisanie odpowiednich dokumentów."
+  },
+  {
+    "input": "Jaki jest wasz dostęp do szablonów dokumentów?",
+    "output": "Z nami oszczędzasz czas, wysiłek i pieniądze. Aby pozostawić dokumenty do rejestracji pojazdu, konieczne jest podpisanie odpowiednich dokumentów."
+  },
+  {
+    "input": "Jakie dokumenty mogę uzyskać od was jako szablony?",
+    "output": "Z nami oszczędzasz czas, wysiłek i pieniądze. Aby pozostawić dokumenty do rejestracji pojazdu, konieczne jest podpisanie odpowiednich dokumentów."
+  },
+  {
+    "input": "Opowiedz mi o waszych szablonach dokumentów.",
+    "output": "Z nami oszczędzasz czas, wysiłek i pieniądze. Aby pozostawić dokumenty do rejestracji pojazdu, konieczne jest podpisanie odpowiednich dokumentów."
+  },
+  {
+    "input": "Jakie rodzaje dokumentów oferujecie jako szablony?",
+    "output": "Z nami oszczędzasz czas, wysiłek i pieniądze. Aby pozostawić dokumenty do rejestracji pojazdu, konieczne jest podpisanie odpowiednich dokumentów."
   }
 ]
